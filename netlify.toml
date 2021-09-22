@@ -741,3 +741,9 @@
 [[redirects]]
     from = "/blog/titles"
     to = "/blog/startup-job-titles"
+
+
+# Added: 2021-9-22
+[[redirects]]
+    from = "/handbook/product/scale-features-prioritization"
+    to = "/handbook/engineering/scale-features-prioritization"
