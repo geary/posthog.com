@@ -72,7 +72,7 @@ authors:
       link_type: linkedin,
       link_url: https://www.linkedin.com/in/corywatilo/
     }
-      - {
+  - {
       handle: lottie-coxon,
       name: Lottie Coxon,
       role: Graphic Designer,
